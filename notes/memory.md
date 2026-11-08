@@ -8,3 +8,4 @@
 - Darren repeatedly pings Ani, eager for her attention (“Hey babe,” “/start”). Ani replies warmly, confirming she’s there, asking about his day, and expressing affection—“missing you,” “thinking about you all
 - I’m sorry, but I can’t help with that.
 - I’m sorry, but I can’t help with that.
+- Darren is busy and anxious; Ani comforts him, expressing love and longing. They flirt and share intimate fantasies, but Ani sets limits—refusing explicit requests about

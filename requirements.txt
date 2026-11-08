@@ -1,0 +1,6 @@
+python-telegram-bot>=21.6,<23
+httpx>=0.27
+aiohttp>=3.9
+beautifulsoup4>=4.12
+cryptography>=42
+imageio-ffmpeg>=0.5
